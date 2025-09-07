@@ -54,18 +54,6 @@ The main program is available in traffic_light.ino.
 
 Arduino Traffic Light with Pedestrian Crossing simulates a real-world intersection using LEDs and a push-button. Cars follow green-yellow-red phases, while pedestrians get safe crossing time when the button is pressed. A beginner-friendly project to learn Arduino, timing, and digital I/O control.
 
-## 🔖 Suggested Repository Names
-
-- arduino-traffic-light
-
-- pedestrian-crossing-Arduino
-
-- arduino-traffic-signal-system
-
-- traffic-light-simulation
-
-- smart-crosswalk-Arduino
-
 <img width="966" height="931" alt="Circuit_TrafficProblem" src="https://github.com/user-attachments/assets/0a78d257-fc38-4bf6-92b7-6fedeb9501ef" />
 
 
