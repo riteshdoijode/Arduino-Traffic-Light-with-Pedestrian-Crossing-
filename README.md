@@ -66,8 +66,6 @@ Arduino Traffic Light with Pedestrian Crossing simulates a real-world intersecti
 
 - smart-crosswalk-Arduino
 
-```
+<img width="966" height="931" alt="Circuit_TrafficProblem" src="https://github.com/user-attachments/assets/0a78d257-fc38-4bf6-92b7-6fedeb9501ef" />
 
-Would you like me to also include a **schematic diagram image link placeholder** (like `![Circuit Diagram](diagram.png)`) so you can add it later when you have one?
 
-```
